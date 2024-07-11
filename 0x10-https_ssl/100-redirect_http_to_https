@@ -51,4 +51,4 @@ frontend claire_web_frontend-https
 backend claire_web_backend
     balance roundrobin
     server 491143-web-01 52.3.248.93:80 check
-    server 491143-web-02 18.214.88.154:80 check
+    server 491143-web-02 52.90.23.56:80 check
